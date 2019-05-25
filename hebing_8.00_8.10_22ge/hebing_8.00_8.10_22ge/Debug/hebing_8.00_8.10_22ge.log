@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/9/29 12:46:47。
+     1>项目“F:\My Project\hebing_8.00_8.10_22ge\hebing_8.00_8.10_22ge\hebing_8.00_8.10_22ge.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\hebing_8.00_8.10_22ge.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt hebing_8.00_8.10_22ge.cpp
+         hebing_8.00_8.10_22ge.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\My Project\hebing_8.00_8.10_22ge\Debug\hebing_8.00_8.10_22ge.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\My Project\hebing_8.00_8.10_22ge\Debug\hebing_8.00_8.10_22ge.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\My Project\hebing_8.00_8.10_22ge\Debug\hebing_8.00_8.10_22ge.lib" /MACHINE:X86 Debug\hebing_8.00_8.10_22ge.obj
+         Debug\stdafx.obj
+         hebing_8.00_8.10_22ge.vcxproj -> F:\My Project\hebing_8.00_8.10_22ge\Debug\hebing_8.00_8.10_22ge.exe
+     1>已完成生成项目“F:\My Project\hebing_8.00_8.10_22ge\hebing_8.00_8.10_22ge\hebing_8.00_8.10_22ge.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.07

@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/6/27 15:14:52。
+     1>项目“F:\My Project\笔试题练习\笔试题练习\笔试题练习.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\笔试题练习.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "笔试题练习.cpp"
+         笔试题练习.cpp
+     1>f:\my project\笔试题练习\笔试题练习\笔试题练习.cpp(41): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>f:\my project\笔试题练习\笔试题练习\笔试题练习.cpp(149): warning C4309: “初始化”: 截断常量值
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\My Project\笔试题练习\Debug\笔试题练习.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\My Project\笔试题练习\Debug\笔试题练习.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\My Project\笔试题练习\Debug\笔试题练习.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\笔试题练习.obj"
+         笔试题练习.vcxproj -> F:\My Project\笔试题练习\Debug\笔试题练习.exe
+     1>已完成生成项目“F:\My Project\笔试题练习\笔试题练习\笔试题练习.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.82

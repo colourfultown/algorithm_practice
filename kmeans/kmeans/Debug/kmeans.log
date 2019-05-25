@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/8/13 10:05:55。
+     1>项目“F:\My Project\kmeans\kmeans\kmeans.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\kmeans.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt kmeans.cpp
+         kmeans.cpp
+     1>f:\my project\kmeans\kmeans\kmeans.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\my project\kmeans\kmeans\kmeans.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\My Project\kmeans\Debug\kmeans.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\My Project\kmeans\Debug\kmeans.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\My Project\kmeans\Debug\kmeans.lib" /MACHINE:X86 Debug\kmeans.obj
+         Debug\stdafx.obj
+         kmeans.vcxproj -> F:\My Project\kmeans\Debug\kmeans.exe
+     1>已完成生成项目“F:\My Project\kmeans\kmeans\kmeans.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75
